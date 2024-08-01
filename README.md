@@ -9,7 +9,7 @@ As User Stories para este projeto foram criadas baseando-se no ponto de vista do
 
 - EU QUERO: criar um novo curso na plataforma
 
-- PARA QUE: para que ele fique disponível para venda e acesso
+- PARA QUE: para que ele fique disponível para venda e acesso de informações
 
 Tomada de Decisão: Esta User Story foi criada com o objetivo de permitir que o administrador possa adicionar novos conteúdos ao sistema, tornando-os acessíveis aos usuários finais. A escolha do verbo "criar" reflete a ação inicial do processo de gestão de cursos, indicando uma ação direta e essencial para o funcionamento da plataforma.
 
