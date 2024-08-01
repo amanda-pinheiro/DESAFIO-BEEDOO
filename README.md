@@ -34,7 +34,7 @@ As User Stories para este projeto foram criadas baseando-se no ponto de vista do
 
 **Tomada de Decisão:** A possibilidade de visualizar todos os cursos disponíveis é fundamental para a gestão eficaz da plataforma. Listar os cursos permite ao administrador acessar e gerenciar rapidamente as informações necessárias. O termo "listar" foi escolhido para indicar uma ação de consulta e organização, proporcionando uma visão geral dos cursos cadastrados.
 
-# Cenários de teste
+# Cenários de teste e Casos de Teste
 
 ### **Planilha Google com os cenários e casos de teste:** [Link para a planilha](https://docs.google.com/spreadsheets/d/1OMh9pBntRuKGTkF2Chn3zxrSqpFCt-aP1bTPBxV7xg0/edit?usp=sharing)
 
