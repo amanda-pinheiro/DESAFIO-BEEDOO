@@ -43,3 +43,8 @@ As User Stories para este projeto foram criadas baseando-se no ponto de vista do
 ### **Pasta com as evidências:** [Link para a pasta](https://drive.google.com/drive/folders/1nI_QQ8fpIe82Rb7MIe-KtkI1YbGX7tz4?usp=drive_link)
 
 ### **Link único da suíte de testes:** [Link para arquivo mp4 único da suíte de testes](https://drive.google.com/file/d/1M0_VUTHBp9EbzFNFRLkPNCdq9eCDjPXU/view?usp=drive_link)
+
+# Relatório de Bugs
+
+
+
