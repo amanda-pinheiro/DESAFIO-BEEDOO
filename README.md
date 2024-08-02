@@ -46,5 +46,7 @@ As User Stories para este projeto foram criadas baseando-se no ponto de vista do
 
 # Relatório de Bugs
 
+### **Relatório:** [Link do relatório](https://docs.google.com/spreadsheets/d/1cPySFto-DqeM7vj8pdbSqFmn_AvEFER0YE39mZ6G-1o/edit?usp=drive_link)
+
 
 
